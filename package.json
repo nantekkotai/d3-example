@@ -18,6 +18,7 @@
   "homepage": "https://github.com/nantekkotai/grunt-simple-server",
   "dependencies": {
     "grunt": "*",
-	"grunt-contrib-connect": "*"
+	"grunt-contrib-connect": "*",
+	"grunt-contrib-watch": "*"
   }
 }
